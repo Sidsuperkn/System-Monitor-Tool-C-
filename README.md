@@ -7,12 +7,12 @@ This project was built progressively over 5 days, adding one key feature each da
 ------------------------------------------------------------
 Features
 ------------------------------------------------------------
-✅ Display system uptime, memory, and load average
-✅ List all running processes with CPU and memory usage
-✅ Sort processes by CPU or memory usage
-✅ Kill processes interactively (SIGTERM or SIGKILL)
-✅ Real-time refresh every few seconds (like 'top')
-✅ Interactive ncurses-based terminal UI
+. Display system uptime, memory, and load average
+. List all running processes with CPU and memory usage
+. Sort processes by CPU or memory usage
+. Kill processes interactively (SIGTERM or SIGKILL)
+. Real-time refresh every few seconds (like 'top')
+. Interactive ncurses-based terminal UI
 
 ------------------------------------------------------------
 Project Objective
@@ -126,11 +126,10 @@ A fully interactive ncurses-based interface with live CPU % and memory updates.
 ------------------------------------------------------------
 License
 ------------------------------------------------------------
-This project is open-source and available under the MIT License.
+This project is open-source.
 
 ------------------------------------------------------------
 Author
 ------------------------------------------------------------
-Hiranmaya Panda
-Final Year B.Tech (Computer Science)
-Passionate about backend engineering, system design, and C++ & Java development.
+SIDDHARTH KUMAR
+B.Tech (Computer Science)
